@@ -1,4 +1,4 @@
-# 🚗⚡Introducing My Electric Vehicle Data Dashboard on Tableau!⚡🚗
+# ⚡Introducing My Electric Vehicle Data Dashboard on Tableau!⚡
 I’ve created a detailed and interactive Tableau dashboard to explore the world of electric vehicles (EVs). As the shift toward sustainable transportation accelerates, this dashboard is designed to provide valuable insights into key trends, infrastructure, and performance metrics in the EV market.
 
 🎯 Project Overview:
